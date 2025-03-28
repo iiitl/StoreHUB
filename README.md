@@ -81,6 +81,9 @@ Join a vibrant developer community where innovation thrives! 🚀
 3. **Configure Environment Variables**:
    ```bash
    cp .env.example .env
+   ENV="production"
+   DB_PRODUCTION="mysql://avnadmin:AVNS_2pXL1l77XfWGC@mysql-136883c-gamesonwithat-9da8.h.aivencloud.com:22007/defaultdb?ssl-mode=REQUIRED" this is for example this will not wokr you eed to enter yours
+   
    ```
    Update `.env` with necessary credentials.
 4. **Install Backend Dependencies**:
