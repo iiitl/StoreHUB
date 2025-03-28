@@ -119,7 +119,7 @@ const Navbar = () => {
 };
 
 const NavItem = ({ icon, label }) => (
-  <div className="flex items-center space-x-2 transition-colors cursor-pointer">
+  <div className="flex items-center space-x-2 text-black/70 hover:text-black transition-colors cursor-pointer">
     {icon}
     <span>{label}</span>
   </div>
