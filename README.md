@@ -64,7 +64,7 @@ Join a vibrant developer community where innovation thrives! 🚀
    ```
 2. **Set Up the Database**:
    - **Using Aiven (Cloud Database)**:
-     - Sign up at [Aiven](https://aiven.com) and create a MySQL service.
+     - Sign up at [Aiven](https://console.aiven.io/) and create a MySQL service.
      - Copy the connection URI into `.env` under `DATABASE_URL`.
    - **Setting Up MySQL Locally**:
      - **Windows**: [MySQL Installer](https://dev.mysql.com/downloads/installer/)
